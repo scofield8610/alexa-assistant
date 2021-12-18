@@ -19,8 +19,8 @@
           "templatePath": "./infrastructure/cfn-deployer/skill-stack.yml",
           "cfn": {
             "parameters": {
-              "GoogleProjectId": "",
-              "GoogleMapsApiKey": ""
+              "GoogleProjectId": "project2022-335501",
+              "GoogleMapsApiKey": "AIzaSyBbhrxpz6WZb2PrQch0zwCi3R4QHoYF5AQ"
             }
           }
         }
