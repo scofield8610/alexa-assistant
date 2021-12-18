@@ -3,8 +3,8 @@
     "skipOnEnablement": "false",
     "type": "AUTH_CODE",
     "authorizationUrl": "https://accounts.google.com/o/oauth2/auth?access_type=offline",
-    "clientId": "",
-    "clientSecret": "",
+    "clientId": "232827498708-v3pllaq0ths2fapktsk0pjrv9c0e5q7f.apps.googleusercontent.com",
+    "clientSecret": "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",
     "accessTokenUrl": "https://oauth2.googleapis.com/token",
     "accessTokenScheme": "HTTP_BASIC",
     "scopes": [
